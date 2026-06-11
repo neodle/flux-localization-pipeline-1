@@ -1,4 +1,4 @@
-# FLUX Localization Pipeline
+# FLUX Localization Pipeline vvvv
 
 Automatic Object Transformation in Image via FLUX Inpainting with Multi-LoRA Condition Decomposition
 
